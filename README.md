@@ -1,3 +1,4 @@
+![logo] (https://github.com/Classicharsh/Harshit-prajapati/blob/main/IMG-20240520-WA0001.jpg)
 # Harshit-prajapati
 <h1 align="center">Hi 👋, I'm Harshit prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
