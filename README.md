@@ -1,4 +1,5 @@
-![logo] (https://github.com/Classicharsh/Harshit-prajapati/blob/main/IMG-20240520-WA0001.jpg)
+![logo](https://github.com/Classicharsh/Harshit-prajapati/assets/147498093/cee655cc-9ffa-4755-971b-8b03cea153ba)
+)
 # Harshit-prajapati
 <h1 align="center">Hi 👋, I'm Harshit prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
